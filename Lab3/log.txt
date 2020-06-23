@@ -1,0 +1,143 @@
+function_num: 20
+Episode: 0
+Finished after: 0 steps264
+Cumulated Reward: 77.51137401125396
+Complete!
+Episode: 1
+Finished after: 1 steps739
+Cumulated Reward: 207.53137484818166
+Complete!
+Episode: 2
+Episode: 3
+Episode: 4
+Finished after: 4 steps265
+Cumulated Reward: 99.6269083184564
+Complete!
+Episode: 5
+Finished after: 5 steps728
+Cumulated Reward: 129.19055835843366
+Complete!
+Episode: 6
+Episode: 7
+Finished after: 7 steps333
+Cumulated Reward: 95.29122080898541
+Complete!
+Episode: 8
+Finished after: 8 steps866
+Cumulated Reward: 167.7708589679319
+Complete!
+Episode: 9
+Finished after: 9 steps569
+Cumulated Reward: 167.6231186165969
+Complete!
+
+function_num: 3
+Episode: 0
+Finished after: 0 steps329
+Cumulated Reward: 107.93426321889324
+Complete!
+Episode: 1
+Episode: 2
+Episode: 3
+Episode: 4
+Episode: 5
+Episode: 6
+Episode: 7
+Episode: 8
+Episode: 9
+
+
+
+function_num: 5
+Episode: 0
+Episode: 1
+Finished after: 1 steps250
+Cumulated Reward: 77.21264884581534
+Complete!
+Episode: 2
+Episode: 3
+Episode: 4
+Finished after: 4 steps584
+Cumulated Reward: 223.994885121306
+Complete!
+Episode: 5
+Episode: 6
+Finished after: 6 steps675
+Cumulated Reward: 98.03566310165695
+Complete!
+Episode: 7
+Episode: 8
+Episode: 9
+
+function_num: 10
+Episode: 0
+Finished after: 0 steps220
+Cumulated Reward: 60.08110508682525
+Complete!
+Episode: 1
+Episode: 2
+Finished after: 2 steps349
+Cumulated Reward: 68.39802533082312
+Complete!
+Episode: 3
+Finished after: 3 steps535
+Cumulated Reward: 144.12939782370339
+Complete!
+Episode: 4
+Episode: 5
+Episode: 6
+Finished after: 6 steps549
+Cumulated Reward: 111.45111779085431
+Complete!
+Episode: 7
+Episode: 8
+Finished after: 8 steps705
+Cumulated Reward: 168.21542408273075
+Complete!
+Episode: 9
+
+
+function_num: 40
+Episode: 0
+Finished after: 0 steps289
+Cumulated Reward: 113.58197810917459
+Complete!
+Episode: 1
+Finished after: 1 steps294
+Cumulated Reward: 73.30435179937413
+Complete!
+Episode: 2
+Finished after: 2 steps579
+Cumulated Reward: 143.36351711565098
+Complete!
+Episode: 3
+Episode: 4
+Episode: 5
+Finished after: 5 steps412
+Cumulated Reward: 112.00533920051522
+Complete!
+Episode: 6
+Finished after: 6 steps427
+Cumulated Reward: 116.00871164960559
+Complete!
+Episode: 7
+Episode: 8
+Episode: 9
+Finished after: 9 steps348
+Cumulated Reward: 130.7090272042
+Complete!
+
+function_num: 80
+Episode: 0
+Episode: 1
+Finished after: 1 steps235
+Cumulated Reward: 59.63850332304925
+Complete!
+Episode: 2
+Episode: 3
+Episode: 4
+Episode: 5
+Episode: 6
+Episode: 7
+Episode: 8
+Episode: 9
